@@ -7,7 +7,7 @@ Hi, I’m Mina. :wave: Use this repository to _ask me anything_.
 
 I get a lot of questions by email. This way anyone can read the answer!
 
-Anything means anything. Personal. Money. Work. Life. Code. Whatever. 
+Anything means anything. Personal. Money. Work. Life. Code. Whatever.  
 I'll try to answer it as soon as I can get to it.
 
 **Guidelines**
